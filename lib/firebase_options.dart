@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'X',
     appId: 'X',
-    messagingSenderId: 'X',
+    messagingSenderId: 'x',
     projectId: 'mealdbauth',
     authDomain: 'mealdbauth.firebaseapp.com',
     storageBucket: 'mealdbauth.firebasestorage.app',
