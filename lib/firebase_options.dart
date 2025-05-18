@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'X',
     appId: 'X',
-    messagingSenderId: 'X',
+    messagingSenderId: 'x',
     projectId: 'mealdbauth',
     storageBucket: 'mealdbauth.firebasestorage.app',
     iosBundleId: 'com.example.loginRegistrationApp',
