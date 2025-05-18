@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521320658524",
+    "project_id": "mealdbauth",
+    "storage_bucket": "mealdbauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521320658524:android:50b9db5ca6c987dafe5899",
+        "android_client_info": {
+          "package_name": "com.example.login_registration_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HxOZiSjVeMRPBnCfA-uCOEgTGSM-Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
