@@ -41,9 +41,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDoys22emmEOB8Eu8GYMNQLQUbHGAC-u8g',
-    appId: '1:521320658524:web:3f6544bacfde6256fe5899',
-    messagingSenderId: '521320658524',
+    apiKey: 'X',
+    appId: 'X',
+    messagingSenderId: 'X',
     projectId: 'mealdbauth',
     authDomain: 'mealdbauth.firebaseapp.com',
     storageBucket: 'mealdbauth.firebasestorage.app',
@@ -51,35 +51,35 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD9HxOZiSjVeMRPBnCfA-uCOEgTGSM-Wfw',
-    appId: '1:521320658524:android:50b9db5ca6c987dafe5899',
-    messagingSenderId: '521320658524',
+    apiKey: 'X',
+    appId: 'X',
+    messagingSenderId: 'X',
     projectId: 'mealdbauth',
     storageBucket: 'mealdbauth.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAFnIUyEAWFkvvN5w3ZE4aKs3lGccYGn3M',
-    appId: '1:521320658524:ios:12d0497b923a4d36fe5899',
-    messagingSenderId: '521320658524',
+    apiKey: 'X',
+    appId: 'X',
+    messagingSenderId: 'X',
     projectId: 'mealdbauth',
     storageBucket: 'mealdbauth.firebasestorage.app',
     iosBundleId: 'com.example.loginRegistrationApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAFnIUyEAWFkvvN5w3ZE4aKs3lGccYGn3M',
-    appId: '1:521320658524:ios:12d0497b923a4d36fe5899',
-    messagingSenderId: '521320658524',
+    apiKey: 'X',
+    appId: 'X',
+    messagingSenderId: 'X',
     projectId: 'mealdbauth',
     storageBucket: 'mealdbauth.firebasestorage.app',
     iosBundleId: 'com.example.loginRegistrationApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDoys22emmEOB8Eu8GYMNQLQUbHGAC-u8g',
-    appId: '1:521320658524:web:786f9b7f8d3b2cc0fe5899',
-    messagingSenderId: '521320658524',
+    apiKey: 'X',
+    appId: 'X',
+    messagingSenderId: 'X',
     projectId: 'mealdbauth',
     authDomain: 'mealdbauth.firebaseapp.com',
     storageBucket: 'mealdbauth.firebasestorage.app',
